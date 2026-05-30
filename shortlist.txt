@@ -1,0 +1,5 @@
+Cox8a - Cytochrome c oxidase subunit 8A (COX8A) - субъединица Цитохром-c-оксидазы, которая отвечает за восстановление кислорода. Overexpression
+LOC100770670 - cytochrome c oxidase subunit 4 isoform 1, mitochondrial - субъединица Цитохром-c-оксидазы. Overexpression
+LOC100757098 - cytochrome c - цитохром с оксидаза переносит с данного белка электрон для образования воды. Однако его оверэкспрессия вызывает апоптоз. Поэтому его экспрессию нужно снизить, но не прекратить, knockdown
+LOC100771461 - cytochrome b-c1 complex subunit 6, mitochondrial - субъединица Цитохром-bc1-комплекса, переносит элетрон на цитохром с. Overexpression
+LOC100753254 - glutathione S-transferase A4 (GSTA4) - его малая экспрессия связана с развитием болезней под воздействием окислительного стресса. Overexpression
